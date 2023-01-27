@@ -5,23 +5,25 @@
     <meta charset="UTF-8">
     <title> Different Methods</title>
     <style>
-        h1 {
+        #yellow{
             background-color: greenyellow;
             font-size: 32px;
             text-align: center;
         }
     </style>
+    <!--Link the stylesheet-->
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <!--For the first heading,add a background color of your choice,
     change the font size to 32px, and center the text -->
-    <h1>Let's modify using the internal method!</h1>
+    <h1 id="yellow">Let's modify using the internal method!</h1>
 
     <!--Below,make the background color red,bold the text, make the font white.-->
-    <p>modify this using the external method</p>
+    <p class="red">modify this using the external method</p>
     <!--Make the background blue but have the same text boldness and font color as above-->
-    <p>Use the external method here! Make me different.</p>
+    <p class="blue">Use the external method here! Make me different.</p>
 
     <!--Make the background color yellow, 32px font size-->
     <div>Use the inline method here!</div>
@@ -33,6 +35,6 @@
     style the second button with a black background and white text.-->
     <button>Am I a link?</button>
     <button>Or am I a link?</button>
-    
+
 </body>
 </html>
