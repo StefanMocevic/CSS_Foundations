@@ -53,3 +53,10 @@
     color: red;
     text-align: center;
 }
+
+/*Class and id practice*/
+
+.odd{
+    background-color: lightpink;
+    font-family: Verdana,"Dejavu Sans",sans-serif;
+}
