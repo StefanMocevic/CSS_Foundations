@@ -39,3 +39,8 @@
     width: 200px;
     height: 400px;
 }
+
+.image.proportional{
+    width: 500px;
+    height: auto;
+}
