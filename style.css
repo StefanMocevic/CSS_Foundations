@@ -1,0 +1,14 @@
+/*Grouping selectors for the <p> elements*/
+.red,
+.blue{
+    font-weight: bold;
+    color: white;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
