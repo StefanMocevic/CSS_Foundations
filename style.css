@@ -12,3 +12,23 @@
 .blue{
     background-color: blue;
 }
+
+/*Buttons*/
+
+.yellowbutton{
+    background-color: yellow;
+    color: black;
+}
+.blackbutton{
+    background-color: black;
+    color: white;
+}
+
+/*group buttons on size*/
+
+.yellowbutton,
+.blackbutton{
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
