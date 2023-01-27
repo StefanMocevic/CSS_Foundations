@@ -55,8 +55,25 @@
 }
 
 /*Class and id practice*/
-
+/*Odd numbered elements*/
 .odd{
     background-color: lightpink;
     font-family: Verdana,"Dejavu Sans",sans-serif;
+}
+
+/*Second Element*/
+#blue{
+    color: blue;
+    font-size: 32px;
+}
+
+/*Third Element*/
+.big-font{
+    font-size: 24px;
+}
+
+/*Fourth Element*/
+.green{
+    background-color: lightgreen;
+    font-weight: bold;
 }
