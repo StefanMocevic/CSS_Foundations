@@ -32,3 +32,10 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
+
+/*Chain images to new page */
+
+.image.squished{
+    width: 200px;
+    height: 400px;
+}
